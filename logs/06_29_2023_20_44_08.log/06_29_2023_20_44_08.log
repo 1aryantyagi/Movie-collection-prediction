@@ -1,0 +1,5 @@
+[ 2023-06-29 20:44:08,943 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-29 20:44:08,945 ] 224 werkzeug - INFO -  * Debugger PIN: 571-694-242
+[ 2023-06-29 20:46:11,609 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 20:46:11] "GET / HTTP/1.1" 200 -
+[ 2023-06-29 20:46:11,869 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 20:46:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-06-29 20:46:11,960 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 20:46:11] "[36mGET /static/img.jpeg HTTP/1.1[0m" 304 -

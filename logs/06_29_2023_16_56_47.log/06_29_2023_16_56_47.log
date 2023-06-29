@@ -1,0 +1,9 @@
+[ 2023-06-29 16:56:50,876 ] 24 root - INFO - Running data ingestion component
+[ 2023-06-29 16:56:50,890 ] 33 root - INFO - Read dataset successfully
+[ 2023-06-29 16:56:50,909 ] 39 root - INFO - Raw data saved
+[ 2023-06-29 16:56:50,926 ] 46 root - INFO - Data Ingestion completed
+[ 2023-06-29 16:56:50,964 ] 78 root - INFO - Data Read successfully
+[ 2023-06-29 16:56:51,017 ] 81 root - INFO - Obtaining preprocessing object
+[ 2023-06-29 16:56:51,020 ] 90 root - INFO - Applying preprocessing object on training and test set
+[ 2023-06-29 16:56:51,081 ] 102 root - INFO - Saved preprocessing object
+[ 2023-06-29 16:56:51,083 ] 28 root - INFO - Splitting train and test array

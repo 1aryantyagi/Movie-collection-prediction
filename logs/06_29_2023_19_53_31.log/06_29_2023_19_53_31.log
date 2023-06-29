@@ -1,0 +1,13 @@
+[ 2023-06-29 19:53:31,507 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-29 19:53:31,514 ] 224 werkzeug - INFO -  * Debugger PIN: 571-694-242
+[ 2023-06-29 19:53:49,391 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:53:49] "GET / HTTP/1.1" 200 -
+[ 2023-06-29 19:53:49,667 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:53:49] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2023-06-29 19:53:49,767 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:53:49] "GET /static/img.jpeg HTTP/1.1" 200 -
+[ 2023-06-29 19:56:03,418 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:56:03] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-06-29 19:56:03,664 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:56:03] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-06-29 19:56:03,801 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:56:03] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-06-29 19:56:03,838 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:56:03] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-06-29 19:56:04,189 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:56:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-29 19:57:02,330 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:57:02] "GET / HTTP/1.1" 200 -
+[ 2023-06-29 19:57:02,680 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:57:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-06-29 19:57:02,930 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Jun/2023 19:57:02] "[36mGET /static/img.jpeg HTTP/1.1[0m" 304 -
