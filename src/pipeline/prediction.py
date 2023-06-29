@@ -20,7 +20,7 @@ class PredictionPipeline:
 
             data_preprocessed = preprocessor.transform(features)
 
-            preds = model.predict_proba(data_preprocessed)
+            preds = model.predict(data_preprocessed)
             return preds
 
         except Exception as e:
